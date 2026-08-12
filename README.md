@@ -1,2 +1,2 @@
 # Text-Classification
-Comparing the performance of SVM and Logistic Regression in classifying online consultation texts on pregnancy and menstruation, using public data from the ["Doctor's Answer Text Dataset in Indonesian"](https://data.mendeley.com/datasets/p8d5bynh3m/1)
+This repository contains the implementation of my undergraduate thesis, which compares the performance of SVM and Logistic Regression in classifying online consultation texts on pregnancy and menstruation, using public data from the ["Doctor's Answer Text Dataset in Indonesian"](https://data.mendeley.com/datasets/p8d5bynh3m/1) The full research has been published in [Jurnal Infotek](https://e-journal.hamzanwadi.ac.id/index.php/infotek/article/view/35011)
